@@ -11,7 +11,7 @@ In this project I perfomed exploratory data analysis and developed a predictive 
 6. Scipy
 7. Scikit Learn
 
-##Algorithms Used
+## Algorithms Used
 1. Linear Regression
 2. MSE
 3. RMSE

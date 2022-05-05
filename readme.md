@@ -17,6 +17,6 @@ In this project I perfomed exploratory data analysis and developed a predictive 
 3. RMSE
 4. R-Squared Evaluation
 #
-Link to Google Colab: https://colab.research.google.com/drive/1ijLSA2-aMJDwfxrk6b52h7zxXjX4axca
+I wrote a detailed article on my blog on how I carried out this project which can be found here: https://ifeanyinneji.hashnode.dev/california-house-price-prediction
 
 
